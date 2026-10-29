@@ -158,7 +158,10 @@ Before managing robots, I built them. A few projects from my time at **Universid
 ### 🛸 Teleoperated quadcopter drone
 *B.Sc. Mechanical Engineering — final-semester project*
 
-<!-- ✍️ TODO: drone photo/GIF, e.g. <img src="assets/drone.jpg" width="420" alt="Quadcopter drone"/> -->
+<div align="center">
+  <img src="assets/drone.gif" alt="Quadcopter drone flying" width="300"/>
+  <br/><sub>🎥 <a href="assets/drone.mp4">Watch the full video</a></sub>
+</div>
 
 Our capstone project: we designed, built and programmed a quadcopter from scratch, teleoperated from a smartphone. Mechanical design, electronics and flight software, all in one semester.
 
